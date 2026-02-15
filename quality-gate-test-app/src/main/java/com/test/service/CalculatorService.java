@@ -9,7 +9,8 @@ public class CalculatorService {
         return a + b;
     }
 
-    public double subtract(double a, double b) {
+    // changed the logic of subtract method
+    public int subtract(int a, int b) {
         return a - b;
     }
 

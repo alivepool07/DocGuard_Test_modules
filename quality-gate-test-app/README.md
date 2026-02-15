@@ -55,3 +55,6 @@ The application starts on **http://localhost:8080**.
 | GET    | `/calculate/sub` | Subtracts two numbers (`a` - `b`)|
 | GET    | `/calculate/mul` | Multiplies two numbers           |
 | GET    | `/calculate/div` | Divides two numbers (`a` / `b`)  |
+
+
+#Changed the logics of substract method in branch feature/test1
