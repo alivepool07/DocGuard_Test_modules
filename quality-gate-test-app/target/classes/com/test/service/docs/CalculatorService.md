@@ -1,3 +1,7 @@
 ## CalculatorService
 
-Added square root method
+added square root function
+
+added cube root function
+
+added power function
