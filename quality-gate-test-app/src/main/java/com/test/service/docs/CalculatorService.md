@@ -8,4 +8,4 @@ added power function
 
 added divideby2 function
 
-added divideby3 function
+added divideby3 function in which any number is divided by 3
