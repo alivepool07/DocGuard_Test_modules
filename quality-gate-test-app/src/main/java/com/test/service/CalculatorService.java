@@ -40,4 +40,8 @@ public class CalculatorService {
     public double dividebytwo(double a) {
         return a / 2;
     }
+
+    public double dividebythree(double a) {
+        return a / 3;
+    }
 }
