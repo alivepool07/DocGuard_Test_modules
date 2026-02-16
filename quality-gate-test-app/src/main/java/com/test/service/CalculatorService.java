@@ -24,4 +24,8 @@ public class CalculatorService {
         }
         return a / b;
     }
+
+    public double squareRoot(double a) {
+        return Math.sqrt(a);
+    }
 }
