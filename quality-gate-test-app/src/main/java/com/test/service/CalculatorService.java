@@ -32,4 +32,8 @@ public class CalculatorService {
     public double cubeRoot(double a) {
         return Math.cbrt(a);
     }
+
+    public double power(double a, double b) {
+        return Math.pow(a, b);
+    }
 }
