@@ -36,4 +36,8 @@ public class CalculatorService {
     public double power(double a, double b) {
         return Math.pow(a, b);
     }
+
+    public double dividebytwo(double a) {
+        return a / 2;
+    }
 }
